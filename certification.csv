@@ -1,0 +1,21 @@
+certification_id,certification_name,category,tier1_boost,tier2_boost,tier3_boost,skill_relevance,market_value_score
+1,Google Cloud Professional,Cloud Computing,0.12,0.08,0.05,"AWS,GCP,Cloud Architecture",90
+2,AWS Cloud Practitioner,Cloud Computing,0.1,0.08,0.05,"AWS,DevOps,System Design",88
+3,Microsoft Azure Fundamentals,Cloud Computing,0.08,0.1,0.06,"Azure,Microsoft Stack",85
+4,LeetCode Premium,Competitive Programming,0.15,0.05,0.02,"DSA,Problem Solving",85
+5,Coursera Machine Learning,AI/ML,0.1,0.06,0.04,"ML,Data Science,Python",82
+6,System Design Course,Architecture,0.18,0.08,0.03,"System Design,Scalability",95
+7,React Certified Developer,Frontend,0.06,0.08,0.06,"React,JavaScript,Frontend",78
+8,Oracle Database Certified,Database,0.04,0.08,0.06,"SQL,Database,Oracle",72
+9,Salesforce Admin,CRM,0.03,0.12,0.08,"Salesforce,CRM,Business",70
+10,Java Oracle Certified,Programming,0.05,0.08,0.06,"Java,OOP,Backend",75
+11,Python Institute PCAP,Programming,0.06,0.08,0.06,"Python,Programming,Scripting",76
+12,GitHub Certified,Version Control,0.03,0.05,0.04,"Git,Collaboration,DevOps",68
+13,Docker Certified,Containerization,0.08,0.06,0.04,"Docker,DevOps,Microservices",74
+14,Kubernetes Certified,Orchestration,0.12,0.06,0.03,"Kubernetes,DevOps,Cloud",80
+15,Scrum Master Certified,Methodology,0.02,0.06,0.05,"Agile,Project Management",65
+16,iOS Developer Certified,Mobile Development,0.08,0.05,0.04,"Swift,iOS,Mobile",70
+17,Android Developer Certified,Mobile Development,0.06,0.06,0.05,"Kotlin,Android,Mobile",72
+18,Tableau Desktop Certified,Data Analytics,0.04,0.06,0.05,"Data Visualization,Analytics",68
+19,Power BI Certified,Data Analytics,0.03,0.06,0.05,"Microsoft,Data Analytics",66
+20,Cybersecurity Certified,Security,0.08,0.07,0.05,"Security,Network,Ethical Hacking",78
