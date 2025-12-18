@@ -1,0 +1,41 @@
+skill_id,skill_name,category,difficulty_level,learning_time_months,importance_weight,market_demand_score
+1,Data Structures and Algorithms,Programming,High,6,10,95
+2,Object Oriented Programming,Programming,Medium,4,9,90
+3,Database Management Systems,Database,Medium,3,8,85
+4,Operating Systems,System,Medium,4,7,75
+5,Computer Networks,System,Medium,3,6,70
+6,Python,Programming Language,Medium,3,9,92
+7,Java,Programming Language,Medium,4,8,88
+8,C++,Programming Language,High,5,7,75
+9,JavaScript,Programming Language,Medium,2,8,90
+10,HTML/CSS,Web Development,Easy,2,6,80
+11,React.js,Frontend Framework,Medium,3,8,85
+12,Node.js,Backend Framework,Medium,3,7,82
+13,Spring Boot,Backend Framework,Medium,4,7,78
+14,SQL,Database,Easy,2,9,88
+15,MongoDB,Database,Medium,3,6,75
+16,Git/GitHub,Version Control,Easy,1,8,90
+17,REST APIs,Web Services,Medium,2,7,85
+18,System Design,Architecture,High,8,9,88
+19,Machine Learning,AI/ML,High,8,8,85
+20,Data Analysis,Analytics,Medium,4,7,80
+21,Cloud Computing (AWS),Cloud,High,6,8,82
+22,DevOps,Operations,High,6,7,78
+23,Microservices,Architecture,High,6,7,75
+24,Docker,Containerization,Medium,3,6,72
+25,Kubernetes,Orchestration,High,5,6,70
+26,Linux,Operating System,Medium,4,7,75
+27,Agile/Scrum,Methodology,Easy,1,6,80
+28,Problem Solving,Soft Skill,High,12,10,95
+29,Communication Skills,Soft Skill,Medium,6,8,85
+30,Leadership,Soft Skill,High,12,6,70
+31,Android Development,Mobile,Medium,5,6,72
+32,iOS Development,Mobile,Medium,5,6,68
+33,Angular,Frontend Framework,Medium,4,6,70
+34,Vue.js,Frontend Framework,Medium,3,5,65
+35,Django,Backend Framework,Medium,4,6,70
+36,Flask,Backend Framework,Easy,2,5,68
+37,TensorFlow,AI/ML,High,6,7,75
+38,PyTorch,AI/ML,High,6,7,72
+39,Power BI,Analytics,Medium,3,5,65
+40,Tableau,Analytics,Medium,3,6,68
