@@ -1,0 +1,11 @@
+suggestion_id,target_company_tier,missing_skill_id,learning_path,estimated_time_months,resources,priority_level,difficulty_boost
+1,Tier1,18,Complete System Design Course + Practice,6,"Grokking System Design,Educative",High,25
+2,Tier1,1,Master DSA + Competitive Programming,6,"LeetCode,GeeksforGeeks,Striver SDE Sheet",High,30
+3,Tier1,19,Machine Learning Specialization,8,"Coursera ML Course,Kaggle",Medium,20
+4,Tier1,21,AWS Certification + Hands-on Projects,6,"AWS Training,Cloud Guru",Medium,18
+5,Tier2,6,Python Programming + Projects,3,"Python.org Tutorial,Real Python",High,15
+6,Tier2,14,Database Management + SQL Practice,2,"W3Schools,SQLBolt,HackerRank SQL",High,12
+7,Tier2,9,JavaScript + Frontend Development,3,"FreeCodeCamp,MDN Docs",Medium,15
+8,Tier1,28,Problem Solving + Logical Thinking,12,"Daily Practice,Mock Interviews",High,35
+9,Tier2,2,OOP Concepts + Implementation,4,"Java/Python OOP,Design Patterns",Medium,10
+10,Tier1,29,Communication Skills + Presentation,6,"Toastmasters,Public Speaking Course",Medium,8
