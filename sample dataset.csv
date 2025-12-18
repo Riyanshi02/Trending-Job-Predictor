@@ -1,0 +1,11 @@
+student_id,cgpa,branch,current_skills,internship_count,project_count,certifications,target_companies,year_of_study
+1,8.5,CSE,"1,6,14,2,28,16",2,4,"AWS Cloud Practitioner,LeetCode Premium","Google,Microsoft,Amazon",4
+2,7.2,ECE,"1,9,10,11,28,29",1,2,"Web Development,JavaScript","Flipkart,Amazon,TCS",4
+3,6.8,IT,"6,7,14,2,28",0,2,"Java Basic,Programming","Infosys,TCS,Wipro",4
+4,8.9,CSE,"1,6,18,19,21,28,14",4,6,"Google Cloud,ML,System Design,LeetCode Premium","Google,Meta,Netflix",4
+5,7,MECH,"28,29,27,6",0,1,"Digital Literacy,Basic Computer","TCS,Accenture,IBM",4
+6,8.2,EEE,"1,7,14,21,28",2,3,"Azure Fundamentals,Cloud Computing","Microsoft,Goldman Sachs,Oracle",4
+7,7.8,CSE,"1,6,9,11,17,28",2,3,"React,Node.js,Full Stack","Flipkart,Swiggy,PhonePe",4
+8,6.5,CSE,"1,6,14,28",0,2,"Programming,Database","TCS,Infosys,Cognizant",4
+9,8.7,CSE,"1,6,18,19,21,28,14",3,5,"Google Cloud,AWS,ML,System Design","Google,Amazon,Meta",4
+10,7.4,IT,"1,9,11,12,17,28",1,3,"Web Development,Backend,API","Zomato,Ola,Paytm",4
