@@ -1,0 +1,16 @@
+project_category,project_type,tier1_impact,tier2_impact,tier3_impact,skill_alignment,complexity_score
+Full Stack Web Application,Web Development,0.08,0.06,0.05,"JavaScript,React,Node.js,Database",7
+Machine Learning Model,AI/ML,0.12,0.08,0.06,"Python,ML,Data Science,Statistics",9
+Mobile Application,Mobile Development,0.1,0.07,0.06,"Android,iOS,React Native",8
+System Design Project,Architecture,0.15,0.08,0.04,"System Design,Scalability,Databases",10
+Cloud Infrastructure,DevOps/Cloud,0.12,0.08,0.05,"AWS,Docker,Kubernetes,CI/CD",9
+Data Analytics Dashboard,Analytics,0.08,0.08,0.06,"Python,Tableau,SQL,Statistics",7
+E-commerce Platform,Web Development,0.1,0.08,0.07,"Full Stack,Payment Gateway,Security",8
+Game Development,Gaming,0.06,0.05,0.05,"Unity,C#,Game Design",7
+Blockchain Application,Blockchain,0.08,0.06,0.05,"Blockchain,Smart Contracts,Web3",8
+IoT Project,Hardware/Software,0.08,0.07,0.06,"IoT,Sensors,Embedded Systems",8
+API Development,Backend,0.07,0.07,0.06,"REST API,Backend,Microservices",7
+Automation Tool,Scripting,0.06,0.06,0.05,"Python,Automation,Testing",6
+Research Paper Implementation,Research,0.1,0.06,0.04,"Research,Algorithm,Implementation",9
+Open Source Contribution,Collaboration,0.08,0.05,0.04,"Git,Collaboration,Code Review",7
+Startup/Business Project,Entrepreneurship,0.06,0.07,0.06,"Business Logic,Full Stack",7
