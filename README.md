@@ -39,9 +39,13 @@ Dataset contains student details such as:
 ## 🚀 How to Run the Project
 1. Clone the repository
 2. Install dependencies:
+```bash
 pip install -r requirements.txt
-3. Run the app:
+```
+4. Run the app:
+```bash
 streamlit run main.py
+```
 
 ---
 
